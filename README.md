@@ -1,3 +1,4 @@
+![Hotel Del Luna](banner.svg)
 # Hotel Management System
 
 A simple hotel management program I built using C as part of my academic project. It runs on the console and covers the basic operations you'd expect at a hotel — booking rooms, ordering food, using amenities, checking in/out, and handling cancellations.
